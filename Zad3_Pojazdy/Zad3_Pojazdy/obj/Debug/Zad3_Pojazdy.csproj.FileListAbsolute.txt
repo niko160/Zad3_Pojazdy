@@ -1,0 +1,9 @@
+c:\users\dnikodex\documents\visual studio 2015\Projects\Zad3_Pojazdy\Zad3_Pojazdy\bin\Debug\Zad3_Pojazdy.exe.config
+c:\users\dnikodex\documents\visual studio 2015\Projects\Zad3_Pojazdy\Zad3_Pojazdy\bin\Debug\Zad3_Pojazdy.exe
+c:\users\dnikodex\documents\visual studio 2015\Projects\Zad3_Pojazdy\Zad3_Pojazdy\bin\Debug\Zad3_Pojazdy.pdb
+c:\users\dnikodex\documents\visual studio 2015\Projects\Zad3_Pojazdy\Zad3_Pojazdy\obj\Debug\Zad3_Pojazdy.csprojResolveAssemblyReference.cache
+c:\users\dnikodex\documents\visual studio 2015\Projects\Zad3_Pojazdy\Zad3_Pojazdy\obj\Debug\Zad3_Pojazdy.exe
+c:\users\dnikodex\documents\visual studio 2015\Projects\Zad3_Pojazdy\Zad3_Pojazdy\obj\Debug\Zad3_Pojazdy.pdb
+C:\Users\dnikodex\Desktop\Zadania\Zad3_Pojazdy\Zad3_Pojazdy\bin\Debug\Zad3_Pojazdy.exe.config
+C:\Users\dnikodex\Desktop\Zadania\Zad3_Pojazdy\Zad3_Pojazdy\obj\Debug\Zad3_Pojazdy.exe
+C:\Users\dnikodex\Desktop\Zadania\Zad3_Pojazdy\Zad3_Pojazdy\obj\Debug\Zad3_Pojazdy.pdb
